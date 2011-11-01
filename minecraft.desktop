@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Minecraft
+GenericName=Sandbox Building Game
+Icon=minecraft-client
+Exec=minecraft
+Terminal=false
+Categories=Game
+
